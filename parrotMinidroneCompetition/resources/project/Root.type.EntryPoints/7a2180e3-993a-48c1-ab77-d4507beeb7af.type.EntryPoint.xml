@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="Tracks/ChooseTrack.m" Name="ChooseTrack">
+    <Extension Value="1d69fd50-c763-49b4-8fd9-8cb5441e56cb" Name="StartUpPrev" />
+</Info>
