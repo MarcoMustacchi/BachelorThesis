@@ -7,6 +7,16 @@ start MATLAB
 
 start project clicking on parrotMinidroneCompetition.prj
 
+## Toolbox
+- Aerospace
+- Computer Vision
+- Image Processing
+- Simulink 3D Animation
+- Hardware support for Parrot Minidrone
+
+## Model
+![alt text](https://github.com/MarcoMustacchi/BachelorThesis/blob/master/Parrot%20Mambo%20Minidrone.jpg)
+
 ## Tracks 
 [Track 1](https://www.youtube.com/watch?v=hvJBzbG7pR8&list=PLt8rhGpNRqZqQmX-gEoqsX0pk_LpAQXqx&index=10)             |  [Track 2](https://www.youtube.com/watch?v=e30NVFZQXt4&list=PLt8rhGpNRqZqQmX-gEoqsX0pk_LpAQXqx&index=9)
 :-------------------------:|:-------------------------:
