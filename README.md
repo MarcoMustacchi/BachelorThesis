@@ -9,7 +9,7 @@ start MATLAB
 
 `cd` in the project folder
 
-start project clicking on parrotMinidroneCompetition.prj
+start project clicking on *parrotMinidroneCompetition.prj*
 
 ## Toolbox
 - Aerospace
