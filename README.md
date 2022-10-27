@@ -2,7 +2,7 @@
   <img src="https://github.com/MarcoMustacchi/MarcoMustacchi.github.io/blob/main/assets/img/icons/UniBG_logo_transparent.svg" width="150">
 </p>
 
-<h1 align="center">Tesi di Laurea Triennale - Ingegneria Informatica UniBG</h1>
+<h1 align="center">Tesi di Laurea Triennale - Ingegneria Informatica <br> UniBg</h1>
                       
 ## Run
 start MATLAB
